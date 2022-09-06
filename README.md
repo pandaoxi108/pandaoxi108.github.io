@@ -14,4 +14,4 @@
 ## 文章
 所有内容都为站内跳转，请放心。文章的格式为 `markdown`。
 
-- [`PanDaoxi` 语录](https://github.com/pandaoxi108/pandaoxi108.github.io/blob/main/files/pandaoxi%E8%AF%AD%E5%BD%95.md）
+- [`PanDaoxi` 语录](https://github.com/pandaoxi108/pandaoxi108.github.io/blob/main/files/pandaoxi%E8%AF%AD%E5%BD%95.md)
